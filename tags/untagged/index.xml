@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luis Herrera</title>
-    <link>https://luhego.github.io/</link>
-    <description>Recent content on Luis Herrera</description>
+    <title>untagged on Luis Herrera</title>
+    <link>https://luhego.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Luis Herrera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 13 Jul 2020 00:26:47 -0500</lastBuildDate>
     
-	<atom:link href="https://luhego.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luhego.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,18 +21,6 @@
       <description>Hi there,
 A brief history of myself and my programming career. I studied system engineering(which is the Peruvian version of computer science).
 I started working with Java and I didn&amp;rsquo;t like it. It felt too verbose. Dealing with factories, interfaces, builders, DAOs, DTOs to just query a table didn&amp;rsquo;t feel right. I need to clarify that wasn&amp;rsquo;t the language mistake but at the time I was too junior to know it.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://luhego.github.io/about/</link>
-      <pubDate>Mon, 13 Jul 2020 00:21:56 -0500</pubDate>
-      
-      <guid>https://luhego.github.io/about/</guid>
-      <description>Hello!
-My name is Luis. I am a software engineer who enjoys building backends and APIs with Python/Django and frontends with VueJs and React.
-In this blog, I will write about my thoughts and ideas about programming. Additionally, I will use it as a diary to write about the things I am working on.
-This is my twitter user @luhegoes. Feel free to say hi :)</description>
     </item>
     
   </channel>

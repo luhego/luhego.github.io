@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Luis Herrera</title>
+        <link>https://luhego.github.io/posts/</link>
+        <description>Recent content in Posts on Luis Herrera</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 13 Jul 2020 00:26:47 -0500</lastBuildDate>
+        <atom:link href="https://luhego.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>https://luhego.github.io/posts/2020/07/hello-world/</link>
+            <pubDate>Mon, 13 Jul 2020 00:26:47 -0500</pubDate>
+            
+            <guid>https://luhego.github.io/posts/2020/07/hello-world/</guid>
+            <description>Hi there,
+A brief history of myself and my programming career. I studied system engineering(which is the Peruvian version of computer science).
+I started working with Java and I didn&amp;rsquo;t like it. It felt too verbose. Dealing with factories, interfaces, builders, DAOs, DTOs to just query a table didn&amp;rsquo;t feel right. I need to clarify that wasn&amp;rsquo;t the language mistake but at the time I was too junior to know it.</description>
+            <content type="html"><![CDATA[<p>Hi there,</p>
+<p>A brief history of myself and my programming career. I studied system engineering(which is the Peruvian version of computer science).</p>
+<p>I started working with Java and I didn&rsquo;t like it. It felt too verbose. Dealing with factories, interfaces, builders, DAOs, DTOs to just query a table didn&rsquo;t feel right.
+I need to clarify that wasn&rsquo;t the language mistake but at the time I was too junior to know it.</p>
+<p>I needed another language and at the time after trying a couple of languages I decided to go with Python which was more readable and fun to work with.
+I started building web applications using Django which is something I still do after many years.</p>
+<p>After doing mainly backend work for 2 years, I needed to do some frontend work so I started to learn JavaScript. I need to confess that at the beginning I had mixed feelings about the language.
+There are a lot of things I don&rsquo;t like about JavaScript like having null and undefined, having two operators for comparison == and ===, the Date API. Over time, with ES6 and TypeScript, I started to appreciate the language more.</p>
+<p>Currently, I started to learn React and I like its functional approach a lot. Redux is another thing. It seems very elegant and smart but it is very painful to setup. Also, the amount of packages you need to do simple things seems too much(redux, redux-logger, redux-persist, redux-thunk, redux-saga, reselect, etc).</p>
+<p>As you see, I have many opinions about programming. In this blog, I will write about the things I like and dislike. Hopefully, we can learn from each other.</p>
+<p>Until the next post.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

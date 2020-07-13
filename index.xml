@@ -5,12 +5,12 @@
     
     
     
-    <link>http://example.org/</link>
+    <link>https://luhego.github.io/</link>
     <description>Recent content on Luis Herrera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luhego.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

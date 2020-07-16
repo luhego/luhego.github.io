@@ -28,7 +28,7 @@ I started building web applications using Django which is something I still do a
 There are a lot of things I don&rsquo;t like about JavaScript like having null and undefined, having two operators for comparison == and ===, the Date API. Over time, with ES6 and TypeScript, I started to appreciate the language more.</p>
 <p>Currently, I started to learn React and I like its functional approach a lot. Redux is another thing. It seems very elegant and smart but it is very painful to setup. Also, the amount of packages you need to do simple things seems too much(redux, redux-logger, redux-persist, redux-thunk, redux-saga, reselect, etc).</p>
 <p>As you see, I have many opinions about programming. In this blog, I will write my thoughts about those things. Hopefully, we can learn from each other.</p>
-<p>Until the next post.</p>
+<p>Until the next time.</p>
 ]]></content>
         </item>
         
